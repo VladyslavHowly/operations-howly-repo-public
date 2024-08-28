@@ -1,0 +1,28 @@
+[
+    {
+        "name": "Customer Service Evaluation",
+        "sections": [
+            {
+                "name": "Communication",
+                "points": ["5", "10", "15"]
+            },
+            {
+                "name": "Problem Solving",
+                "points": ["5", "10", "15"]
+            }
+        ]
+    },
+    {
+        "name": "Technical Support Evaluation",
+        "sections": [
+            {
+                "name": "Technical Knowledge",
+                "points": ["5", "10", "15"]
+            },
+            {
+                "name": "Response Time",
+                "points": ["5", "10", "15"]
+            }
+        ]
+    }
+]
